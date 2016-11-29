@@ -1,0 +1,17 @@
+textarea.form-control{
+	border: 1px solid #aaa;
+}
+input[type=submit]{
+	border: 2px solid #aaa;
+	margin-top: 20px;
+}
+div.back{
+	max-width: 600px;
+	margin-top: 100px;
+}
+input.code{
+	max-width: 100px;
+	max-height: 30px;
+	display:inline-block;
+	margin-left:10px;
+}
